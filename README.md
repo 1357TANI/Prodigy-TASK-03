@@ -1,1 +1,1 @@
-# Prodigy-TASK-03
+#I imported the Bank dataset, did some data preprocessing, trained the model, evaluated the model, and made predictions using a Decision Tree Classifier to predict whether a customer will buy a product or not.
